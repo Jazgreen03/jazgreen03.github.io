@@ -1,0 +1,13 @@
+void test1 (){
+int n = 21;
+while (n >= 1)
+n = n - 10; 
+}
+
+
+
+
+
+
+
+
